@@ -1,2 +1,2 @@
 # personal-testing
-Learning with folks
+mentoring young folks
